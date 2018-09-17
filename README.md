@@ -1,10 +1,10 @@
-#### Tina Zhao
+### Tina Zhao
 ( <tinaz@tuta.io> ) ( <https://manacake.co> ) ( San Francisco, CA )
 
-##### Summary
+#### Summary
 Tina is a full-stack engineer with extensive experience in web, mobile, and embedded hardware application development. She is familiar with the fast-paced dynamic of startups and is regarded as a self starter and a team player. She is also a well-organized multi-tasker with superb interpersonal skills and creative spunk!
 
-##### Skills
+#### Skills
 <table>
   <tbody>
     <tr>
@@ -34,7 +34,7 @@ Tina is a full-stack engineer with extensive experience in web, mobile, and embe
   </tbody>
 </table>
 
-##### Experience
+#### Experience
 Head of Software Engineering ( Mar 2018 - Present )<br>
 **Outset** ( <https://greycat.co> ) ( Remote )
 - Designed, wrote, and maintained all versions of firmware for project's custom PCB
@@ -69,8 +69,7 @@ Web Developer ( Aug 2008 - Sep 2014 )<br>
 - Provided upkeep on client facing web spaces and company client database
 - Maintained social networking accounts for client projects
 
-
-##### Education
+#### Education
 B.A. Computer Science, May 2014<br>
 University of Iowa
 
