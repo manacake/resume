@@ -2,7 +2,7 @@
 ( <tinaz@tuta.io> ) ( <https://manacake.co> ) ( San Francisco, CA )
 
 #### Summary
-Tina is a full-stack engineer with extensive experience in web, mobile, and embedded hardware application development. She is familiar with the fast-paced dynamic of startups and is regarded as a self starter and a team player. She is also a well-organized multi-tasker with superb interpersonal skills and creative spunk!
+Tina is a full-stack engineer with extensive experience in web, mobile, and embedded hardware application design and development. She is familiar with the fast-paced dynamic of startups and is regarded as a self-starter and a team player. She is also a well organized multi-tasker with superb interpersonal skills and creative spunk!
 
 #### Skills
 <table>
@@ -38,7 +38,7 @@ Tina is a full-stack engineer with extensive experience in web, mobile, and embe
 Head of Software Engineering ( Mar 2018 - Present )<br>
 **Outset** ( <https://greycat.co> ) ( Remote )
 - Designed, wrote, and maintained all versions of firmware for project's custom PCB
-- Implemented a security protocol to send encrypted data through public airspace
+- Implemented security protocols to send encrypted data through public airspace
 - Reverse engineered the control of integrated circuits via data sheets and troubleshooting
 - Collaborated with community non-profits to integrate Outset into disaster scenarios
 
