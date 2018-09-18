@@ -74,7 +74,7 @@ B.A. Computer Science, May 2014<br>
 University of Iowa
 
 A.A. Business Administration, May 2010<br>
-Kirkwood Community College
+Kirkwood College
 
 Japanese, Aug 2005 - June 2007<br>
 University of California Davis
