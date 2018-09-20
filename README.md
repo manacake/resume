@@ -34,7 +34,7 @@ Head of Software Engineering ( Mar 2018 - Present )<br>
 
 Developer ( Oct 2015 - Dec 2017 )<br>
 **Next Thing Company** ( Oakland, CA )
-- Designed, developed (using Vue/Express), and maintained the shipping logistics and order management system responsible for delivering 132k products to 95k customers in 143 countries
+- Designed, developed (using Vue/Express), and owned the shipping logistics and order management system responsible for delivering 132k products to 95k customers in 143 countries
 - Architected the full stack of a web/native application (using React/Express/Electron) that allowed customers to flash custom operating system images onto tiny Linux computers
 - Engineered and implemented (in Go) WIFI on-boarding backend infrastructure for headless computers
 - Built customs application to precisely calculate duties, taxes, and courier charges for e-commerce checkout
