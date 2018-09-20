@@ -7,6 +7,8 @@
     <tr>
       <td>Languages (proficient)</td>
       <td>Javascript, Python, C, C++</td>
+    </tr>
+    <tr>
       <td>(familiar)</td>
       <td>Go, Ruby</td>
     </tr>
